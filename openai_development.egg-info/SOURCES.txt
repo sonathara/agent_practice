@@ -1,0 +1,6 @@
+pyproject.toml
+openai_development.egg-info/PKG-INFO
+openai_development.egg-info/SOURCES.txt
+openai_development.egg-info/dependency_links.txt
+openai_development.egg-info/requires.txt
+openai_development.egg-info/top_level.txt
